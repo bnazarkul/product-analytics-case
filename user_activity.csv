@@ -34,3 +34,7 @@ U001,2026-07-09,payment,app,1150
 U005,2026-07-09,login,web,0
 U007,2026-07-10,login,app,0
 U007,2026-07-10,payment,app,1600
+U008,2026-07-07,login,web,0
+U008,2026-07-09,login,web,0
+U009,2026-07-08,login,app,0
+U009,2026-07-10,login,app,0
